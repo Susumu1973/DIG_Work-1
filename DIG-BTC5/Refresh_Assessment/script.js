@@ -574,7 +574,12 @@ test(compare(
 console.log("");
 console.log("＝課題１６＝");
 
+<<<<<<< HEAD
 console.log("TEST");
+=======
+console.log("TEST")
+
+>>>>>>> f3127e11a068de85ba747dafe3860752b170a8d6
 
 
 
